@@ -1,0 +1,5 @@
+-----------------
+Datos registrados
+-----------------
+Nombre y Apellido.........: juan marquina
+Género....................: Maculino
